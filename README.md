@@ -55,7 +55,6 @@ node src/solutions/solution2.js
 - 배열에 모든 값을 저장하여 불필요한 메모리 사용
 - 수열의 길이가 눈덩이처럼 불어남
 
----
 
 ### Solution 2: 메모리 개선 버전
 
@@ -71,7 +70,6 @@ node src/solutions/solution2.js
 - 여전히 입력값 69부터 메모리 초과 발생
 - 항 자체의 길이가 엄청나게 증가하는 것은 피할 수 없음
 
----
 
 ## 결과
 
